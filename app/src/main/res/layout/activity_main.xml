@@ -225,6 +225,7 @@
 </TextView>
 
                 <ImageView
+                    android:id="@+id/arrow"
                     android:layout_width="59dp"
                     android:layout_height="47dp"
                     android:src="@drawable/chevron"
